@@ -1,0 +1,130 @@
+/* *{overflow: hidden ;} */
+
+.OuterPlain{
+    margin: 18px ;
+    scroll-padding: 0px;
+}
+
+.WholePlain{
+    height: 600px;
+
+
+
+}
+
+.Product{
+    /* box-sizing: border-box; */
+/* position: absolute; */
+width: 1000px;
+height: 815px;
+left: 5px;
+top: 1px;
+
+
+}
+
+
+.Product_img{
+    box-sizing: border-box;
+    border: 1px solid #000000;
+    border-radius: 42px;
+
+    border-color: black;
+
+position: absolute;
+width: 1450px;
+height: 600px;
+left: 33px;
+top: 100px;
+
+
+}
+
+.Page1YELLOWRectangle{
+    
+
+position: absolute;
+width: 625px;
+height: 450px;
+left: 60px;
+top: 210px;
+bottom: 300px;
+
+
+/* width: 767px;
+height: 596px;
+left: 74px;
+top: 298px; */
+
+background: #FFC867;
+border-radius: 42px;
+
+
+}
+
+.Page1YELLOWShadow{
+    position: absolute;
+ 
+    width: 300px;
+height: 300px;
+left: 389px;
+top: 366.50px;
+bottom: 30px;
+border-bottom-right-radius: 70px;
+
+/* width: 355.67px;
+height: 355.67px;
+left: 485px;
+top: 538px; */
+}
+
+
+
+.Text{
+    position: absolute;
+    width: 450px;
+    height: 148px;
+    left: 136px;
+    top: 280px;
+    color: #030016;
+}
+
+
+.Text2{
+    position: absolute;
+    width: 330px;
+    height: 48px;
+    left: 136px;
+    top: 470px;
+    color: #030016;
+}
+
+
+.Button{ 
+position: absolute;
+width: 140px;
+height: 33px;
+left: 136px;
+top: 553px;
+background: #000000;
+border-radius: 6px;
+}
+
+.OnButtonText{
+    position: absolute;
+width: 130px;
+height: 22px;
+left: 150px;
+top: 542px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 900;
+font-size: 15px;
+line-height: 22px;
+
+/* identical to box height */
+
+color: white;
+
+}

@@ -1,0 +1,198 @@
+.WhyBackground{
+
+    
+position: static ;
+width:1000 px;
+height:100 px;
+left: px;
+top: 100px;
+
+background: #0E0E0E;
+}
+
+.Background{
+    width: 1000px;
+height: 700px;
+left: px;
+top: 1px;
+
+}
+
+
+.BgGrid{
+    position: absolute ;
+    width: 1.74px;
+height: 480px;
+left: .52px;
+
+top: 920px;
+
+
+/* width: 1597.69px;
+height: 700.97px;
+left: -25px;
+top: 950px; */
+
+
+bottom: 300px;
+opacity: 0.3;
+transform: matrix(0.96, 0, 0.32, 1, 0, 0);
+}
+
+
+.MobilePhone{
+    position: absolute;
+width: 400.74px;
+height: 480px;
+left: 600.52px;
+top: 920px;
+}
+
+.MobilePhoneScreen{
+    position: absolute;
+width: 379.74px;
+height: 460px;
+left: 616.52px;
+top: 922px;
+}
+
+
+.Text1USE{
+position: absolute;
+width: 564px;
+height: 98px;
+left: 100px;
+top: 803px;
+}
+
+.Text2With{
+    /* box-sizing: border-box;
+    border: 1px solid red;
+    border-radius: 42px;
+    border-color: red; */
+position: absolute;
+width: 100px;
+height: 98px;
+left: 1020px;
+top: 810px;
+}
+
+
+.Card1{
+    position: absolute;
+width: 400px;
+height: 89px;
+left: 100px;
+top: 1020px;
+
+background: #2B6587;
+border-radius: 10px;
+
+}
+
+
+.CardFace{
+    position: absolute;
+width: 55px;
+height: 55px;
+left: 125px;
+top: 1036px;
+}
+
+.CardFaceBg{
+    position: absolute;
+width: 55px;
+height: 55px;
+left: 125px;
+top: 1035px;
+}
+
+
+.WhyCard1tag{
+    position: absolute;
+width: 81px;
+height: 19px;
+left: 67px;
+top: -9px;
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 19px;
+letter-spacing: 0.08em;
+text-transform: uppercase;
+
+color: #00B5C0;
+
+}
+
+.WhyCard1tagSubtitle{
+    position: absolute;
+width: 266px;
+height: 32px;
+left: 67px;
+top: 5px;
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 180%;
+
+/* or 32px */
+
+color: #00F0FF;
+
+}
+
+
+.Card2{
+    position: absolute;
+width: 390px;
+height: 89px;
+left: 927px;
+top: 930px;
+}
+
+
+.Card2Face{
+    position: absolute;
+width: 55px;
+height: 55px;
+left: 470px;
+top: 473px;
+}
+
+.Card3{
+    position: absolute;
+width: 390px;
+height: 89px;
+left: 1090px;
+top: 1130px;
+}
+
+.Card3Face{
+    position: absolute;
+width: 55px;
+height: 55px;
+left: 554px;
+top: 573px;
+}
+
+
+.Card4{
+    position: absolute;
+width: 390px;
+height: 89px;
+left: 240px;
+top: 1230px;
+}
+
+.Card4Face{
+    position: absolute;
+width: 55px;
+height: 55px;
+left: 128px;
+top: 624px;
+}

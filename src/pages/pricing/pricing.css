@@ -1,0 +1,135 @@
+.PricingBackground{
+
+    
+    position: relative ;
+    width:1000 px;
+    height: 1000 px;
+    left: px;
+    top: 100px;
+    
+    background: #0E0E0E;
+    }
+    
+    .PriceBackground{
+        width: 1000px;
+    height: 730px;
+    left: px;
+    top: 200px;
+    
+    }
+
+    .PricingBgGrid1{
+        /* box-sizing: border-box;
+    border: 10px solid red;
+    border-radius: 42px;
+    border-color: red; */
+
+    position: relative;
+width: 623.47px;
+height: 761px;
+left: -600px;
+top: 1302px;
+
+
+transform: rotate(0deg);
+    }
+
+.PricingBgGrid2{
+        /* box-sizing: border-box;
+    border: 10px solid red;
+    border-radius: 42px;
+    border-color: red; */
+
+position: absolute;
+width: 623.47px;
+height: 761px;
+left: 560px;
+top: 1302px;
+transform: rotate(0deg);
+}
+
+
+.PricingTitleText{
+position: absolute;
+width: 160.47px;
+height: 50px;
+left: 190px;
+top: 2352px;
+}
+
+.PricingSubTitle{
+position: absolute;
+width: 110.47px;
+height: 50px;
+left: 950px;
+top: 2352px;
+}
+
+.PricingCardBg1{
+    position: absolute;
+width: 250px;
+height: 450px;
+left: 180px;
+top: 2452px;
+}
+
+.PricingCardInfo1{
+    position: absolute;
+width: 225px;
+height: 410px;
+left: 195px;
+top: 2472px;
+}
+
+
+.PricingCardBg2{
+    position: absolute;
+width: 250px;
+height: 450px;
+left: 480px;
+top: 2452px;
+
+}
+
+.PricingCardInfo2{
+    position: absolute;
+width: 225px;
+height: 410px;
+left: 495px;
+top: 2472px;
+}
+
+.PricingCardBg3{
+    position: absolute;
+width: 250px;
+height: 450px;
+left: 780px;
+top: 2452px;
+}
+
+.PricingCardInfo3{
+    position: absolute;
+width: 225px;
+height: 410px;
+left: 795px;
+top: 2472px;
+}
+
+
+.PricingCardBg4{
+    position: absolute;
+width: 250px;
+height: 450px;
+left: 1080px;
+top: 2452px;
+}
+
+
+.PricingCardInfo4{
+    position: absolute;
+width: 225px;
+height: 410px;
+left: 1095px;
+top: 2472px;
+}
+

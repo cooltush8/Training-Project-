@@ -1,0 +1,163 @@
+.MainResBg{
+     /* box-sizing: border-box;
+    border: 10px solid green;
+    border-radius: 42px;
+    border-color: green; */
+    
+    
+    position: absolute;
+    width: 1530px;
+    height: 750px;
+    left: px;
+    top: 2976.99px;
+   
+}
+
+
+.PurpleBackground{
+    position: absolute;
+    width: 1470px;
+    height: 687px;
+    left: 30px;
+    top: 3009px;
+
+background: #838FFF;
+border-radius: 42px;
+}
+
+
+.PurpleBgDesign{
+    position: absolute;
+    width: 1470px;
+    height: 687px;
+    left: 30px;
+    top: 3009px;
+
+
+}
+
+.HumanPicCard{
+    position: relative;
+    
+    width: 300px;
+    height: 579px;
+    left: 614px;
+    top: 178px;
+
+
+}
+.HumanPicCardTags{
+
+     /* box-sizing: border-box;
+    border: 10px solid green;
+    border-radius: 42px;
+    border-color: green; */
+    
+    position: relative;
+    
+    width: 200px;
+    height :80px;
+    left: 634px;
+    top: 70px;
+
+
+}
+
+.HumanPicCardOption{
+   position: relative;
+width: 40px;
+height: 308px;
+left: 860px;
+top: -230px;
+}
+
+
+.CardBg1{
+    position:relative;
+    
+    width: 280px;
+    height: 599px;
+    left: 180px;
+    top: -960px;
+    rotate: 90deg;
+    border-radius: 70px;
+ }
+
+
+ .CardBg2{
+    position:relative;
+    
+    width: 280px;
+    height: 599px;
+    left: 1050px;
+    top: -1560px;
+    rotate: 90deg;
+    border-radius: 70px;
+ }
+
+ .CardBg3{
+    position:relative;
+    
+    width: 280px;
+    height: 599px;
+    left: 1050px;
+    top: -1880px;
+    rotate: 90deg;
+    border-radius: 70px;
+ }
+
+ .CardBg4{
+
+    
+    position:absolute;
+    
+    width: 280px;
+    height: 599px;
+    left: 180px;
+    top: 3195px;
+    rotate: 90deg;
+    border-radius: 70px;
+ }
+
+
+ .Card1Info{
+    position: absolute;
+width: 484.68px;
+height: 190.67px;
+left: 90.66px;
+top: 3120px;
+
+ }
+
+ .Card2Info{
+    position: absolute;
+width: 120.68px;
+height: 20.67px;
+left: 960.66px;
+top: 3150px;
+
+ }
+
+ .Card3Info{
+    position: absolute;
+width: 576.68px;
+height: 450.67px;
+left: 910.66px;
+top: 3180px;
+
+ }
+
+ .Card4Info{
+    position: absolute;
+width: 484.68px;
+height: 190.67px;
+left: 90.66px;
+top: 3390px;
+
+ }
+
+ 
+
+
+
+
